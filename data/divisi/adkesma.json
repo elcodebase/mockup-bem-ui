@@ -1,0 +1,86 @@
+{
+  "nama": "Departemen Advokasi dan Kesejahteraan Mahasiswa",
+  "slug": "adkesma",
+  "type": "Departemen",
+  "cover_url": "/images/divisi/adkesma-cover.jpg",
+  "deskripsi": "Departemen Advokasi dan Kesejahteraan Mahasiswa mengawal hak mahasiswa atas biaya kuliah yang adil, beasiswa, dan fasilitas kampus yang layak.\n\nKami bekerja dengan prinsip terbuka: setiap rencana dan hasil kerja disampaikan kepada mahasiswa.",
+  "visi": "Departemen Advokasi dan Kesejahteraan Mahasiswa yang terbuka, solid, dan berdampak nyata bagi mahasiswa UI.",
+  "misi": [
+    "Menjalankan program terkait UKT secara terencana dan terukur.",
+    "Menjalankan program terkait beasiswa secara terencana dan terukur.",
+    "Menjalankan program terkait fasilitas secara terencana dan terukur.",
+    "Melaporkan hasil kerja secara terbuka kepada mahasiswa."
+  ],
+  "tupoksi": [
+    "Mengelola urusan UKT.",
+    "Mengelola urusan beasiswa.",
+    "Mengelola urusan fasilitas."
+  ],
+  "anggota": [
+    {
+      "nama": "Laras Maharani",
+      "jabatan": "Kepala Departemen",
+      "foto_url": "/images/anggota/laras-maharani.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Fajar Utami",
+      "jabatan": "Wakil Kepala Departemen",
+      "foto_url": "/images/anggota/fajar-utami.jpg",
+      "linkedin": "https://linkedin.com/in/fajar-utami"
+    },
+    {
+      "nama": "Fikri Maharani",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/fikri-maharani.jpg",
+      "linkedin": "https://linkedin.com/in/fikri-maharani"
+    },
+    {
+      "nama": "Zahra Hidayat",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/zahra-hidayat.jpg",
+      "linkedin": "https://linkedin.com/in/zahra-hidayat"
+    },
+    {
+      "nama": "Daffa Putri",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/daffa-putri.jpg",
+      "linkedin": "https://linkedin.com/in/daffa-putri"
+    },
+    {
+      "nama": "Fikri Kusuma",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/fikri-kusuma.jpg",
+      "linkedin": "https://linkedin.com/in/fikri-kusuma"
+    },
+    {
+      "nama": "Dimas Maharani",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/dimas-maharani.jpg",
+      "linkedin": "https://linkedin.com/in/dimas-maharani"
+    },
+    {
+      "nama": "Citra Hidayat",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/citra-hidayat.jpg",
+      "linkedin": "https://linkedin.com/in/citra-hidayat"
+    }
+  ],
+  "proker": [
+    {
+      "nama": "Posko Advokasi UKT",
+      "status": "ongoing",
+      "deskripsi": "Pendampingan mahasiswa yang mengajukan banding atau keringanan UKT."
+    },
+    {
+      "nama": "Pusat Info Beasiswa",
+      "status": "ongoing",
+      "deskripsi": "Kanal informasi beasiswa yang diperbarui setiap pekan."
+    },
+    {
+      "nama": "Audit Fasilitas Kampus",
+      "status": "upcoming",
+      "deskripsi": "Survei kondisi fasilitas di seluruh fakultas."
+    }
+  ]
+}

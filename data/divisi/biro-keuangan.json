@@ -1,0 +1,76 @@
+{
+  "nama": "Biro Keuangan",
+  "slug": "biro-keuangan",
+  "type": "Biro",
+  "cover_url": "/images/divisi/biro-keuangan-cover.jpg",
+  "deskripsi": "Biro Keuangan mengelola anggaran BEM UI dan melaporkannya secara terbuka kepada mahasiswa.\n\nKami bekerja dengan prinsip terbuka: setiap rencana dan hasil kerja disampaikan kepada mahasiswa.",
+  "visi": "Biro Keuangan yang terbuka, solid, dan berdampak nyata bagi mahasiswa UI.",
+  "misi": [
+    "Menjalankan program terkait anggaran secara terencana dan terukur.",
+    "Menjalankan program terkait pelaporan secara terencana dan terukur.",
+    "Menjalankan program terkait audit secara terencana dan terukur.",
+    "Melaporkan hasil kerja secara terbuka kepada mahasiswa."
+  ],
+  "tupoksi": [
+    "Mengelola urusan anggaran.",
+    "Mengelola urusan pelaporan.",
+    "Mengelola urusan audit."
+  ],
+  "anggota": [
+    {
+      "nama": "Intan Anggraini",
+      "jabatan": "Kepala Biro",
+      "foto_url": "/images/anggota/intan-anggraini.jpg",
+      "linkedin": "https://linkedin.com/in/intan-anggraini"
+    },
+    {
+      "nama": "Galih Santoso",
+      "jabatan": "Wakil Kepala Biro",
+      "foto_url": "/images/anggota/galih-santoso.jpg",
+      "linkedin": "https://linkedin.com/in/galih-santoso"
+    },
+    {
+      "nama": "Salsabila Maharani",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/salsabila-maharani.jpg",
+      "linkedin": "https://linkedin.com/in/salsabila-maharani"
+    },
+    {
+      "nama": "Putri Lestari",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/putri-lestari.jpg",
+      "linkedin": "https://linkedin.com/in/putri-lestari"
+    },
+    {
+      "nama": "Rizki Ramadhani",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/rizki-ramadhani.jpg",
+      "linkedin": "https://linkedin.com/in/rizki-ramadhani"
+    },
+    {
+      "nama": "Satria Kusuma",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/satria-kusuma.jpg",
+      "linkedin": "https://linkedin.com/in/satria-kusuma"
+    },
+    {
+      "nama": "Nadia Kurniawan",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/nadia-kurniawan.jpg",
+      "linkedin": "https://linkedin.com/in/nadia-kurniawan"
+    },
+    {
+      "nama": "Wulan Anggraini",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/wulan-anggraini.jpg",
+      "linkedin": ""
+    }
+  ],
+  "proker": [
+    {
+      "nama": "Laporan Keuangan Terbuka",
+      "status": "upcoming",
+      "deskripsi": "Publikasi laporan penggunaan dana setiap semester."
+    }
+  ]
+}

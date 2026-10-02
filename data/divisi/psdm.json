@@ -1,0 +1,81 @@
+{
+  "nama": "Departemen Pengembangan Sumber Daya Mahasiswa",
+  "slug": "psdm",
+  "type": "Departemen",
+  "cover_url": "/images/divisi/psdm-cover.jpg",
+  "deskripsi": "Departemen Pengembangan Sumber Daya Mahasiswa memastikan setiap fungsionaris tumbuh selama berkontribusi di BEM UI.\n\nKami bekerja dengan prinsip terbuka: setiap rencana dan hasil kerja disampaikan kepada mahasiswa.",
+  "visi": "Departemen Pengembangan Sumber Daya Mahasiswa yang terbuka, solid, dan berdampak nyata bagi mahasiswa UI.",
+  "misi": [
+    "Menjalankan program terkait kaderisasi secara terencana dan terukur.",
+    "Menjalankan program terkait pelatihan secara terencana dan terukur.",
+    "Menjalankan program terkait apresiasi secara terencana dan terukur.",
+    "Melaporkan hasil kerja secara terbuka kepada mahasiswa."
+  ],
+  "tupoksi": [
+    "Mengelola urusan kaderisasi.",
+    "Mengelola urusan pelatihan.",
+    "Mengelola urusan apresiasi."
+  ],
+  "anggota": [
+    {
+      "nama": "Fikri Pratama",
+      "jabatan": "Kepala Departemen",
+      "foto_url": "/images/anggota/fikri-pratama.jpg",
+      "linkedin": "https://linkedin.com/in/fikri-pratama"
+    },
+    {
+      "nama": "Sekar Utami",
+      "jabatan": "Wakil Kepala Departemen",
+      "foto_url": "/images/anggota/sekar-utami.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Intan Rahmawati",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/intan-rahmawati.jpg",
+      "linkedin": "https://linkedin.com/in/intan-rahmawati"
+    },
+    {
+      "nama": "Daffa Utami",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/daffa-utami.jpg",
+      "linkedin": "https://linkedin.com/in/daffa-utami"
+    },
+    {
+      "nama": "Nadia Putri",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/nadia-putri.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Melati Setiawan",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/melati-setiawan.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Satria Santoso",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/satria-santoso.jpg",
+      "linkedin": "https://linkedin.com/in/satria-santoso"
+    },
+    {
+      "nama": "Daffa Hidayat",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/daffa-hidayat.jpg",
+      "linkedin": "https://linkedin.com/in/daffa-hidayat"
+    }
+  ],
+  "proker": [
+    {
+      "nama": "Upgrading Fungsionaris",
+      "status": "done",
+      "deskripsi": "Pelatihan dasar kepemimpinan dan kerja tim untuk seluruh fungsionaris."
+    },
+    {
+      "nama": "Mentoring Staf",
+      "status": "ongoing",
+      "deskripsi": "Pendampingan rutin antara kepala divisi dan staf."
+    }
+  ]
+}

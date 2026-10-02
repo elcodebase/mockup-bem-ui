@@ -1,0 +1,72 @@
+{
+  "preview_kabinet": [
+    "kastrat",
+    "adkesma",
+    "sosma"
+  ],
+  "foto_proker": [
+    {
+      "judul": "Sekolah Advokasi",
+      "src": "/images/proker/sekolah-advokasi.jpg",
+      "x": 15,
+      "y": 24,
+      "w": 11,
+      "r": -8,
+      "d": 40
+    },
+    {
+      "judul": "UI Mengajar",
+      "src": "/images/proker/ui-mengajar.jpg",
+      "x": 82,
+      "y": 22,
+      "w": 10,
+      "r": 6,
+      "d": -45
+    },
+    {
+      "judul": "Kajian Rutin",
+      "src": "/images/proker/kantin.jpg",
+      "x": 9,
+      "y": 52,
+      "w": 9,
+      "r": 4,
+      "d": -30
+    },
+    {
+      "judul": "Posko UKT",
+      "src": "/images/proker/posko-ukt.jpg",
+      "x": 89,
+      "y": 50,
+      "w": 9,
+      "r": -5,
+      "d": 35
+    },
+    {
+      "judul": "Bazar Mahasiswa",
+      "src": "/images/proker/bazar.jpg",
+      "x": 29,
+      "y": 58,
+      "w": 7,
+      "r": -3,
+      "d": 60
+    },
+    {
+      "judul": "Tanggap Bencana",
+      "src": "/images/proker/tanggap-bencana.jpg",
+      "x": 70,
+      "y": 56,
+      "w": 12,
+      "r": 3,
+      "d": -55
+    },
+    {
+      "judul": "Rapat Kerja Kabinet",
+      "src": "/images/proker/raker.jpg",
+      "x": 33,
+      "y": 15,
+      "w": 6,
+      "r": 9,
+      "d": 25
+    }
+  ]
+}

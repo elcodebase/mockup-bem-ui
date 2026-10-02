@@ -1,0 +1,38 @@
+{
+  "nama": "Kemenkoan Politik dan Advokasi",
+  "slug": "kemenkoan-politik",
+  "type": "Kemenkoan",
+  "cover_url": "/images/divisi/kemenkoan-politik-cover.jpg",
+  "deskripsi": "Kemenkoan Politik dan Advokasi menyatukan kerja Kastrat dan Adkesma agar kajian dan advokasi saling menguatkan.\n\nKami bekerja dengan prinsip terbuka: setiap rencana dan hasil kerja disampaikan kepada mahasiswa.",
+  "visi": "Kemenkoan Politik dan Advokasi yang terbuka, solid, dan berdampak nyata bagi mahasiswa UI.",
+  "misi": [
+    "Menjalankan program terkait Kastrat secara terencana dan terukur.",
+    "Menjalankan program terkait Adkesma secara terencana dan terukur.",
+    "Melaporkan hasil kerja secara terbuka kepada mahasiswa."
+  ],
+  "tupoksi": [
+    "Mengelola urusan Kastrat.",
+    "Mengelola urusan Adkesma."
+  ],
+  "anggota": [
+    {
+      "nama": "Citra Kusuma",
+      "jabatan": "Menteri Koordinator",
+      "foto_url": "/images/anggota/citra-kusuma.jpg",
+      "linkedin": "https://linkedin.com/in/citra-kusuma"
+    },
+    {
+      "nama": "Arya Pratama",
+      "jabatan": "Wakil Menteri Koordinator",
+      "foto_url": "/images/anggota/arya-pratama.jpg",
+      "linkedin": "https://linkedin.com/in/arya-pratama"
+    }
+  ],
+  "proker": [
+    {
+      "nama": "Forum Koordinasi Advokasi",
+      "status": "ongoing",
+      "deskripsi": "Pertemuan rutin untuk menyelaraskan sikap dan agenda advokasi."
+    }
+  ]
+}

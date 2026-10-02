@@ -1,0 +1,57 @@
+{
+  "nama": "Badan Pengurus Harian",
+  "slug": "bph",
+  "type": "BPH",
+  "cover_url": "/images/divisi/bph-cover.jpg",
+  "deskripsi": "Badan Pengurus Harian memimpin dan mengoordinasikan seluruh kemenkoan, departemen, dan biro agar BEM UI bergerak dengan satu arah.\n\nKami bekerja dengan prinsip terbuka: setiap rencana dan hasil kerja disampaikan kepada mahasiswa.",
+  "visi": "Badan Pengurus Harian yang terbuka, solid, dan berdampak nyata bagi mahasiswa UI.",
+  "misi": [
+    "Menjalankan program terkait Kepala dan wakil kepala BEM UI secara terencana dan terukur.",
+    "Menjalankan program terkait Sekretaris jenderal secara terencana dan terukur.",
+    "Menjalankan program terkait Bendahara umum secara terencana dan terukur.",
+    "Melaporkan hasil kerja secara terbuka kepada mahasiswa."
+  ],
+  "tupoksi": [
+    "Mengelola urusan Kepala dan wakil kepala BEM UI.",
+    "Mengelola urusan Sekretaris jenderal.",
+    "Mengelola urusan Bendahara umum."
+  ],
+  "anggota": [
+    {
+      "nama": "Arya Nugroho",
+      "jabatan": "Ketua BEM UI",
+      "foto_url": "/images/anggota/arya-nugroho.jpg",
+      "linkedin": "https://linkedin.com/in/arya-nugroho"
+    },
+    {
+      "nama": "Farhan Maharani",
+      "jabatan": "Wakil Ketua BEM UI",
+      "foto_url": "/images/anggota/farhan-maharani.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Aditya Maharani",
+      "jabatan": "Sekretaris Jenderal",
+      "foto_url": "/images/anggota/aditya-maharani.jpg",
+      "linkedin": "https://linkedin.com/in/aditya-maharani"
+    },
+    {
+      "nama": "Satria Lestari",
+      "jabatan": "Bendahara Umum",
+      "foto_url": "/images/anggota/satria-lestari.jpg",
+      "linkedin": "https://linkedin.com/in/satria-lestari"
+    }
+  ],
+  "proker": [
+    {
+      "nama": "Rapat Kerja Kabinet",
+      "status": "done",
+      "deskripsi": "Penyusunan rencana kerja seluruh divisi untuk satu periode."
+    },
+    {
+      "nama": "Laporan Terbuka Triwulan",
+      "status": "ongoing",
+      "deskripsi": "Pemaparan capaian dan penggunaan anggaran kepada mahasiswa setiap tiga bulan."
+    }
+  ]
+}

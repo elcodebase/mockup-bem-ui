@@ -1,0 +1,86 @@
+{
+  "nama": "Departemen Sosial Masyarakat",
+  "slug": "sosma",
+  "type": "Departemen",
+  "cover_url": "/images/divisi/sosma-cover.jpg",
+  "deskripsi": "Departemen Sosial Masyarakat menghubungkan mahasiswa UI dengan masyarakat sekitar melalui pengabdian yang berkelanjutan.\n\nKami bekerja dengan prinsip terbuka: setiap rencana dan hasil kerja disampaikan kepada mahasiswa.",
+  "visi": "Departemen Sosial Masyarakat yang terbuka, solid, dan berdampak nyata bagi mahasiswa UI.",
+  "misi": [
+    "Menjalankan program terkait desa binaan secara terencana dan terukur.",
+    "Menjalankan program terkait pendidikan secara terencana dan terukur.",
+    "Menjalankan program terkait kemanusiaan secara terencana dan terukur.",
+    "Melaporkan hasil kerja secara terbuka kepada mahasiswa."
+  ],
+  "tupoksi": [
+    "Mengelola urusan desa binaan.",
+    "Mengelola urusan pendidikan.",
+    "Mengelola urusan kemanusiaan."
+  ],
+  "anggota": [
+    {
+      "nama": "Intan Permata",
+      "jabatan": "Kepala Departemen",
+      "foto_url": "/images/anggota/intan-permata.jpg",
+      "linkedin": "https://linkedin.com/in/intan-permata"
+    },
+    {
+      "nama": "Sekar Permata",
+      "jabatan": "Wakil Kepala Departemen",
+      "foto_url": "/images/anggota/sekar-permata.jpg",
+      "linkedin": "https://linkedin.com/in/sekar-permata"
+    },
+    {
+      "nama": "Bagas Maharani",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/bagas-maharani.jpg",
+      "linkedin": "https://linkedin.com/in/bagas-maharani"
+    },
+    {
+      "nama": "Laras Pratama",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/laras-pratama.jpg",
+      "linkedin": "https://linkedin.com/in/laras-pratama"
+    },
+    {
+      "nama": "Tiara Maharani",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/tiara-maharani.jpg",
+      "linkedin": "https://linkedin.com/in/tiara-maharani"
+    },
+    {
+      "nama": "Sekar Maharani",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/sekar-maharani.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Sekar Lestari",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/sekar-lestari.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Yusuf Putri",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/yusuf-putri.jpg",
+      "linkedin": ""
+    }
+  ],
+  "proker": [
+    {
+      "nama": "UI Mengajar",
+      "status": "ongoing",
+      "deskripsi": "Kelas belajar gratis untuk anak-anak di sekitar kampus."
+    },
+    {
+      "nama": "Desa Binaan Depok",
+      "status": "upcoming",
+      "deskripsi": "Program pemberdayaan ekonomi warga bersama mahasiswa lintas fakultas."
+    },
+    {
+      "nama": "Tanggap Bencana",
+      "status": "done",
+      "deskripsi": "Penggalangan dan penyaluran bantuan untuk daerah terdampak bencana."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nama_kabinet": "Kabinet TerusTerang",
+  "deskripsi": "BEM UI adalah badan eksekutif tingkat universitas di Universitas Indonesia. Kami jadi wadah utama gerakan mahasiswa: tempat aspirasi dari fakultas dikumpulkan, dikaji, lalu diperjuangkan bersama.\n\nKami berkomitmen memperjuangkan hak-hak mahasiswa dan masyarakat, mulai dari urusan biaya kuliah dan fasilitas kampus sampai isu kebijakan publik di tingkat nasional.\n\nBergerak bersama, nyata berkarya untuk Indonesia yang lebih baik.",
+  "foto_tentang_url": "/images/kabinet/tentang.jpg",
+  "visi": "BEM UI yang terbuka, berani, dan berpihak: hadir untuk seluruh mahasiswa UI dan bertanggung jawab kepada mereka.",
+  "misi": [
+    "Menciptakan ruang aman dan inklusif bagi seluruh mahasiswa UI.",
+    "Bergerak bersama seluruh elemen kampus dalam setiap advokasi.",
+    "Membawa perubahan yang terukur dan dapat dipertanggungjawabkan.",
+    "Berdiri di garda depan dalam memperjuangkan keadilan.",
+    "Menyuarakan aspirasi mahasiswa tanpa ragu.",
+    "Menyatukan potensi tiap fakultas untuk kerja yang bersinergi."
+  ],
+  "nilai_utama": [
+    "Konvergen",
+    "Akuntabel",
+    "Resiliensi"
+  ],
+  "penjelasan_kabinet": "Kabinet TerusTerang lahir dari keresahan akan kurangnya transparansi. Nama ini adalah janji: setiap keputusan, anggaran, dan sikap BEM UI disampaikan apa adanya kepada mahasiswa.\n\nWarna abu-abu melambangkan objektivitas, sedangkan hitam melambangkan ketegasan dalam bersikap dan mengambil keputusan penting.",
+  "filosofi_logo": "Logo Kabinet TerusTerang dibangun dari bentuk-bentuk sederhana yang tidak menyembunyikan apa pun. Tidak ada ornamen yang hanya jadi hiasan; setiap elemen punya alasan.",
+  "elemen_logo": [
+    {
+      "elemen": "Lingkaran terbuka",
+      "makna": "Ruang yang selalu terbuka untuk aspirasi seluruh mahasiswa UI."
+    },
+    {
+      "elemen": "Garis tegak",
+      "makna": "Sikap yang lurus dan konsisten dalam setiap advokasi."
+    },
+    {
+      "elemen": "Abu-abu",
+      "makna": "Objektivitas dalam membaca setiap isu."
+    },
+    {
+      "elemen": "Hitam",
+      "makna": "Ketegasan dalam bersikap dan mengambil keputusan."
+    },
+    {
+      "elemen": "Huruf tebal",
+      "makna": "Suara mahasiswa yang lantang dan mudah dibaca siapa saja."
+    }
+  ],
+  "foto_logo_url": "/images/logo-kabinet.png",
+  "kata_kabem": {
+    "kutipan": "Kami tidak menjanjikan semua masalah selesai. Kami menjanjikan satu hal: kalian akan selalu tahu apa yang kami kerjakan, dan kenapa.",
+    "nama": "Nama Ketua BEM",
+    "jabatan": "Ketua BEM UI 2026",
+    "foto_url": "/images/kabem/foto.jpg"
+  }
+}

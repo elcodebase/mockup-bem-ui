@@ -1,0 +1,90 @@
+[
+  {
+    "nama": "Badan Pengurus Harian",
+    "slug": "bph",
+    "type": "BPH",
+    "singkatan": "BPH",
+    "icon": "bph",
+    "deskripsi_singkat": "Pengurus inti yang mengoordinasikan seluruh gerak BEM UI 2026."
+  },
+  {
+    "nama": "Kemenkoan Politik dan Advokasi",
+    "slug": "kemenkoan-politik",
+    "type": "Kemenkoan",
+    "singkatan": "Kemenko Polad",
+    "icon": "politik",
+    "deskripsi_singkat": "Mengoordinasikan kajian, aksi, dan advokasi kebijakan."
+  },
+  {
+    "nama": "Kemenkoan Sosial dan Pengembangan",
+    "slug": "kemenkoan-sosial",
+    "type": "Kemenkoan",
+    "singkatan": "Kemenko Sosbang",
+    "icon": "sosial",
+    "deskripsi_singkat": "Mengoordinasikan pengabdian, pengembangan diri, dan ekonomi kreatif."
+  },
+  {
+    "nama": "Departemen Kajian dan Aksi Strategis",
+    "slug": "kastrat",
+    "type": "Departemen",
+    "singkatan": "Kastrat",
+    "icon": "kastrat",
+    "deskripsi_singkat": "Kajian isu strategis dan aksi advokasi."
+  },
+  {
+    "nama": "Departemen Advokasi dan Kesejahteraan Mahasiswa",
+    "slug": "adkesma",
+    "type": "Departemen",
+    "singkatan": "Adkesma",
+    "icon": "adkesma",
+    "deskripsi_singkat": "Mengawal UKT, beasiswa, dan fasilitas kampus."
+  },
+  {
+    "nama": "Departemen Sosial Masyarakat",
+    "slug": "sosma",
+    "type": "Departemen",
+    "singkatan": "Sosma",
+    "icon": "sosma",
+    "deskripsi_singkat": "Pengabdian dan pemberdayaan masyarakat."
+  },
+  {
+    "nama": "Departemen Pengembangan Sumber Daya Mahasiswa",
+    "slug": "psdm",
+    "type": "Departemen",
+    "singkatan": "PSDM",
+    "icon": "psdm",
+    "deskripsi_singkat": "Kaderisasi dan pengembangan fungsionaris."
+  },
+  {
+    "nama": "Departemen Ekonomi Kreatif",
+    "slug": "ekraf",
+    "type": "Departemen",
+    "singkatan": "Ekraf",
+    "icon": "ekraf",
+    "deskripsi_singkat": "Kewirausahaan dan kemandirian dana BEM UI."
+  },
+  {
+    "nama": "Biro Multimedia",
+    "slug": "biro-multimedia",
+    "type": "Biro",
+    "singkatan": "Multimedia",
+    "icon": "multimedia",
+    "deskripsi_singkat": "Desain, video, dan pengembangan website BEM UI."
+  },
+  {
+    "nama": "Biro Keuangan",
+    "slug": "biro-keuangan",
+    "type": "Biro",
+    "singkatan": "Keuangan",
+    "icon": "keuangan",
+    "deskripsi_singkat": "Pengelolaan dan pelaporan keuangan yang transparan."
+  },
+  {
+    "nama": "Biro Sekretaris",
+    "slug": "biro-sekretaris",
+    "type": "Biro",
+    "singkatan": "Sekretaris",
+    "icon": "sekretaris",
+    "deskripsi_singkat": "Administrasi, persuratan, dan arsip organisasi."
+  }
+]

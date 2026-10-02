@@ -1,0 +1,64 @@
+{
+  "nama": "Biro Sekretaris",
+  "slug": "biro-sekretaris",
+  "type": "Biro",
+  "cover_url": "/images/divisi/biro-sekretaris-cover.jpg",
+  "deskripsi": "Biro Sekretaris menjaga administrasi, persuratan, dan arsip BEM UI agar rapi dan mudah ditelusuri.\n\nKami bekerja dengan prinsip terbuka: setiap rencana dan hasil kerja disampaikan kepada mahasiswa.",
+  "visi": "Biro Sekretaris yang terbuka, solid, dan berdampak nyata bagi mahasiswa UI.",
+  "misi": [
+    "Menjalankan program terkait persuratan secara terencana dan terukur.",
+    "Menjalankan program terkait arsip secara terencana dan terukur.",
+    "Menjalankan program terkait notulensi secara terencana dan terukur.",
+    "Melaporkan hasil kerja secara terbuka kepada mahasiswa."
+  ],
+  "tupoksi": [
+    "Mengelola urusan persuratan.",
+    "Mengelola urusan arsip.",
+    "Mengelola urusan notulensi."
+  ],
+  "anggota": [
+    {
+      "nama": "Raka Firmansyah",
+      "jabatan": "Kepala Biro",
+      "foto_url": "/images/anggota/raka-firmansyah.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Raka Maharani",
+      "jabatan": "Wakil Kepala Biro",
+      "foto_url": "/images/anggota/raka-maharani.jpg",
+      "linkedin": "https://linkedin.com/in/raka-maharani"
+    },
+    {
+      "nama": "Bagas Hidayat",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/bagas-hidayat.jpg",
+      "linkedin": "https://linkedin.com/in/bagas-hidayat"
+    },
+    {
+      "nama": "Rafi Putri",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/rafi-putri.jpg",
+      "linkedin": "https://linkedin.com/in/rafi-putri"
+    },
+    {
+      "nama": "Kamila Nugroho",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/kamila-nugroho.jpg",
+      "linkedin": "https://linkedin.com/in/kamila-nugroho"
+    },
+    {
+      "nama": "Galih Wibowo",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/galih-wibowo.jpg",
+      "linkedin": "https://linkedin.com/in/galih-wibowo"
+    },
+    {
+      "nama": "Kamila Hidayat",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/kamila-hidayat.jpg",
+      "linkedin": "https://linkedin.com/in/kamila-hidayat"
+    }
+  ],
+  "proker": []
+}

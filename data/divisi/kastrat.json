@@ -1,0 +1,96 @@
+{
+  "nama": "Departemen Kajian dan Aksi Strategis",
+  "slug": "kastrat",
+  "type": "Departemen",
+  "cover_url": "/images/divisi/kastrat-cover.jpg",
+  "deskripsi": "Departemen Kajian dan Aksi Strategis (Kastrat) merupakan departemen yang bertanggung jawab dalam mengawal isu-isu strategis baik di tingkat kampus, regional, nasional, hingga internasional.\n\nMelalui riset yang komprehensif, propaganda yang masif, dan aksi nyata, Kastrat hadir sebagai poros pergerakan mahasiswa untuk menyuarakan kebenaran dan membela kepentingan publik.",
+  "visi": "Terwujudnya pergerakan mahasiswa yang progresif, inklusif, dan berdampak nyata berlandaskan kajian yang empiris dan strategis.",
+  "misi": [
+    "Melakukan pengawalan isu strategis secara konsisten dan komprehensif.",
+    "Membangun kesadaran politik dan sosial mahasiswa UI dan masyarakat luas.",
+    "Menginisiasi ruang dialektika yang inklusif bagi seluruh elemen mahasiswa.",
+    "Merumuskan strategi advokasi dan aksi ekstra-parlementer yang terukur."
+  ],
+  "tupoksi": [
+    "Riset dan perumusan policy brief terkait isu-isu terkini.",
+    "Pengorganisasian aksi massa dan kampanye isu publik.",
+    "Menjalin jejaring dengan simpul-simpul pergerakan lainnya."
+  ],
+  "anggota": [
+    {
+      "nama": "Nadia Pratama",
+      "jabatan": "Kepala Departemen",
+      "foto_url": "/images/anggota/nadia-pratama.jpg",
+      "linkedin": "https://linkedin.com/in/nadia-pratama"
+    },
+    {
+      "nama": "Hafiz Utami",
+      "jabatan": "Wakil Kepala Departemen",
+      "foto_url": "/images/anggota/hafiz-utami.jpg",
+      "linkedin": "https://linkedin.com/in/hafiz-utami"
+    },
+    {
+      "nama": "Satria Maharani",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/satria-maharani.jpg",
+      "linkedin": "https://linkedin.com/in/satria-maharani"
+    },
+    {
+      "nama": "Wulan Utami",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/wulan-utami.jpg",
+      "linkedin": "https://linkedin.com/in/wulan-utami"
+    },
+    {
+      "nama": "Daffa Kusuma",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/daffa-kusuma.jpg",
+      "linkedin": "https://linkedin.com/in/daffa-kusuma"
+    },
+    {
+      "nama": "Arya Maharani",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/arya-maharani.jpg",
+      "linkedin": "https://linkedin.com/in/arya-maharani"
+    },
+    {
+      "nama": "Galih Nugroho",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/galih-nugroho.jpg",
+      "linkedin": "https://linkedin.com/in/galih-nugroho"
+    },
+    {
+      "nama": "Bagas Kusuma",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/bagas-kusuma.jpg",
+      "linkedin": "https://linkedin.com/in/bagas-kusuma"
+    }
+  ],
+  "proker": [
+    {
+      "nama": "Sekolah Advokasi",
+      "status": "done",
+      "deskripsi": "Pelatihan komprehensif bagi mahasiswa UI terkait teknik dasar advokasi, analisis kebijakan publik, dan manajemen aksi massa."
+    },
+    {
+      "nama": "Kajian Rutin (Kantin)",
+      "status": "ongoing",
+      "deskripsi": "Diskusi dwi-mingguan membahas isu-isu strategis terkini bersama pakar, dosen, dan aktivis untuk merumuskan sikap lembaga."
+    },
+    {
+      "nama": "UI Bergerak",
+      "status": "upcoming",
+      "deskripsi": "Konsolidasi akbar dan aksi mimbar bebas merespons isu kebangsaan jelang peringatan Hari Pendidikan Nasional."
+    },
+    {
+      "nama": "Policy Brief Publik",
+      "status": "ongoing",
+      "deskripsi": "Publikasi hasil riset mendalam terkait RUU kontroversial berupa kertas kebijakan yang disebarluaskan ke publik dan instansi terkait."
+    },
+    {
+      "nama": "Evaluasi Paruh Tahun",
+      "status": "upcoming",
+      "deskripsi": "Forum pelaporan kinerja departemen secara terbuka kepada publik mahasiswa UI."
+    }
+  ]
+}

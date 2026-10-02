@@ -1,0 +1,40 @@
+{
+  "nama": "Kemenkoan Sosial dan Pengembangan",
+  "slug": "kemenkoan-sosial",
+  "type": "Kemenkoan",
+  "cover_url": "/images/divisi/kemenkoan-sosial-cover.jpg",
+  "deskripsi": "Kemenkoan Sosial dan Pengembangan menaungi Sosma, PSDM, dan Ekraf agar program pengabdian dan pengembangan berjalan beriringan.\n\nKami bekerja dengan prinsip terbuka: setiap rencana dan hasil kerja disampaikan kepada mahasiswa.",
+  "visi": "Kemenkoan Sosial dan Pengembangan yang terbuka, solid, dan berdampak nyata bagi mahasiswa UI.",
+  "misi": [
+    "Menjalankan program terkait Sosma secara terencana dan terukur.",
+    "Menjalankan program terkait PSDM secara terencana dan terukur.",
+    "Menjalankan program terkait Ekraf secara terencana dan terukur.",
+    "Melaporkan hasil kerja secara terbuka kepada mahasiswa."
+  ],
+  "tupoksi": [
+    "Mengelola urusan Sosma.",
+    "Mengelola urusan PSDM.",
+    "Mengelola urusan Ekraf."
+  ],
+  "anggota": [
+    {
+      "nama": "Rizki Saputra",
+      "jabatan": "Menteri Koordinator",
+      "foto_url": "/images/anggota/rizki-saputra.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Aditya Santoso",
+      "jabatan": "Wakil Menteri Koordinator",
+      "foto_url": "/images/anggota/aditya-santoso.jpg",
+      "linkedin": "https://linkedin.com/in/aditya-santoso"
+    }
+  ],
+  "proker": [
+    {
+      "nama": "Temu Program Sosbang",
+      "status": "upcoming",
+      "deskripsi": "Penyelarasan jadwal dan sumber daya program lintas departemen."
+    }
+  ]
+}

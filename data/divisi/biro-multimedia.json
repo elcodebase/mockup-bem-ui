@@ -1,0 +1,81 @@
+{
+  "nama": "Biro Multimedia",
+  "slug": "biro-multimedia",
+  "type": "Biro",
+  "cover_url": "/images/divisi/biro-multimedia-cover.jpg",
+  "deskripsi": "Biro Multimedia mengelola identitas visual, dokumentasi, dan kanal digital BEM UI, termasuk website ini.\n\nKami bekerja dengan prinsip terbuka: setiap rencana dan hasil kerja disampaikan kepada mahasiswa.",
+  "visi": "Biro Multimedia yang terbuka, solid, dan berdampak nyata bagi mahasiswa UI.",
+  "misi": [
+    "Menjalankan program terkait desain secara terencana dan terukur.",
+    "Menjalankan program terkait video secara terencana dan terukur.",
+    "Menjalankan program terkait website secara terencana dan terukur.",
+    "Melaporkan hasil kerja secara terbuka kepada mahasiswa."
+  ],
+  "tupoksi": [
+    "Mengelola urusan desain.",
+    "Mengelola urusan video.",
+    "Mengelola urusan website."
+  ],
+  "anggota": [
+    {
+      "nama": "Farhan Lestari",
+      "jabatan": "Kepala Biro",
+      "foto_url": "/images/anggota/farhan-lestari.jpg",
+      "linkedin": "https://linkedin.com/in/farhan-lestari"
+    },
+    {
+      "nama": "Dewi Maharani",
+      "jabatan": "Wakil Kepala Biro",
+      "foto_url": "/images/anggota/dewi-maharani.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Kamila Utami",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/kamila-utami.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Melati Kurniawan",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/melati-kurniawan.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Salsabila Utami",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/salsabila-utami.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Galih Kusuma",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/galih-kusuma.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Dewi Setiawan",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/dewi-setiawan.jpg",
+      "linkedin": "https://linkedin.com/in/dewi-setiawan"
+    },
+    {
+      "nama": "Kamila Kurniawan",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/kamila-kurniawan.jpg",
+      "linkedin": "https://linkedin.com/in/kamila-kurniawan"
+    }
+  ],
+  "proker": [
+    {
+      "nama": "Website Utama BEM UI",
+      "status": "ongoing",
+      "deskripsi": "Pengembangan website resmi BEM UI 2026."
+    },
+    {
+      "nama": "Dokumentasi Proker",
+      "status": "ongoing",
+      "deskripsi": "Foto dan video setiap program kerja."
+    }
+  ]
+}

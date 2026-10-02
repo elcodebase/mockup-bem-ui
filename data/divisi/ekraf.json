@@ -1,0 +1,81 @@
+{
+  "nama": "Departemen Ekonomi Kreatif",
+  "slug": "ekraf",
+  "type": "Departemen",
+  "cover_url": "/images/divisi/ekraf-cover.jpg",
+  "deskripsi": "Departemen Ekonomi Kreatif membangun kemandirian dana BEM UI dan membuka ruang kewirausahaan bagi mahasiswa.\n\nKami bekerja dengan prinsip terbuka: setiap rencana dan hasil kerja disampaikan kepada mahasiswa.",
+  "visi": "Departemen Ekonomi Kreatif yang terbuka, solid, dan berdampak nyata bagi mahasiswa UI.",
+  "misi": [
+    "Menjalankan program terkait merchandise secara terencana dan terukur.",
+    "Menjalankan program terkait kewirausahaan secara terencana dan terukur.",
+    "Menjalankan program terkait kemitraan secara terencana dan terukur.",
+    "Melaporkan hasil kerja secara terbuka kepada mahasiswa."
+  ],
+  "tupoksi": [
+    "Mengelola urusan merchandise.",
+    "Mengelola urusan kewirausahaan.",
+    "Mengelola urusan kemitraan."
+  ],
+  "anggota": [
+    {
+      "nama": "Dimas Saputra",
+      "jabatan": "Kepala Departemen",
+      "foto_url": "/images/anggota/dimas-saputra.jpg",
+      "linkedin": "https://linkedin.com/in/dimas-saputra"
+    },
+    {
+      "nama": "Laras Santoso",
+      "jabatan": "Wakil Kepala Departemen",
+      "foto_url": "/images/anggota/laras-santoso.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Dimas Nugroho",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/dimas-nugroho.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Sekar Rahmawati",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/sekar-rahmawati.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Kamila Ramadhani",
+      "jabatan": "Staf Ahli",
+      "foto_url": "/images/anggota/kamila-ramadhani.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Bima Putri",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/bima-putri.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Melati Putri",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/melati-putri.jpg",
+      "linkedin": ""
+    },
+    {
+      "nama": "Fajar Maharani",
+      "jabatan": "Staf Magang",
+      "foto_url": "/images/anggota/fajar-maharani.jpg",
+      "linkedin": "https://linkedin.com/in/fajar-maharani"
+    }
+  ],
+  "proker": [
+    {
+      "nama": "Merchandise TerusTerang",
+      "status": "ongoing",
+      "deskripsi": "Produksi dan penjualan merchandise resmi kabinet."
+    },
+    {
+      "nama": "Bazar Mahasiswa",
+      "status": "upcoming",
+      "deskripsi": "Ruang jualan bagi usaha mahasiswa UI."
+    }
+  ]
+}
